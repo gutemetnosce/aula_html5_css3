@@ -1,0 +1,37 @@
+body {
+    background: rgb(128, 153, 238);
+    margin-left: 300px;
+    margin-right: 300px;
+}
+
+header {
+    margin-top: 70px;
+}
+
+h1 {
+    color: red;
+    font-family: gothic;
+}
+
+h2 {
+    font-family: gothic;
+}
+
+p {
+    font-size: 18px;
+}
+
+footer {
+    margin-bottom: 30px;
+}
+
+.img_pdr {
+    margin: 50px;
+    width: 300px;
+}
+
+.logo {
+    margin: 10x;
+    width: 30px;
+}
+
